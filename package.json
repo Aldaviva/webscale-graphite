@@ -1,0 +1,9 @@
+{
+    "name": "webscale-graphite",
+    "version": "0.0.0",
+    "dependencies": {
+	"webscale": "*",
+	"graphite": "0.0.6",
+	"lodash": "2.4.1"
+    }
+}
